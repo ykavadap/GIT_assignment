@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is the initial contents......Hey this is Aby!
+=======
+This is the initial contents ...Hi this is Yash!
+>>>>>>> bd33defb2db23f6da4d04aac73451adf1faef61a
 of the second file that comprises
 our most excellent project.
