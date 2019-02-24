@@ -1,3 +1,4 @@
+Modifying first line of file
 Matt is adding nifty new content!
 This is the initial contents
 of the first file that
